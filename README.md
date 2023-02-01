@@ -5,7 +5,7 @@ This is Assignment 1 of CS6013: Advanced Data Structures and Algorithms [IITH] -
 -------------------------------------------------------------------
 # Programming Assignment 1 
 ### Name        : Manan Darji
-### Roll Number : ##############
+### Roll Number : ************
 ### Subject     : Advance Data Structure and Algorithm (CS6013)
 ### Topic       : Multiplying Two Polynomials
 -------------------------------------------------------------------
